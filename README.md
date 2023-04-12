@@ -4,10 +4,11 @@
 - 🌱 Estudando Frameworks PHP
 - 📫 Contatate me no: gabrielrhodden@gmail.com 
 
+<div style="display: inline_block"><br>
+ <img src="https://github-readme-stats.vercel.app/api?username=GabrielRhoden86&show_icons=true&theme=dracula"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRhoden86&layout=compact&theme=dracula"/>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRhoden86&show_icons=true&theme=nord)
-
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
