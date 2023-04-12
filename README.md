@@ -5,8 +5,8 @@
 - 📫 Contatate me no: gabrielrhodden@gmail.com 
 
 <div style=""><br>
- <img src="https://github-readme-stats.vercel.app/api?username=GabrielRhoden86&show_icons=true&theme=dracula"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRhoden86&layout=compact&theme=dracula"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=GabrielRhoden86&show_icons=true&theme=nord"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRhoden86&layout=compact&theme=nord"/>
 
 </div>
 
