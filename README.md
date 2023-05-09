@@ -1,6 +1,6 @@
 ### Olá Eu Sou o Gabriel, Sejam Bem Vindos👋
 
-- 🔭 Trabalhando com Front e Back end
+- 🔭 Trabalhando com Front e Back End
 - 🌱 Estudando Frameworks PHP
 - 📫 Contatate me no: gabrielrhodden@gmail.com 
 
