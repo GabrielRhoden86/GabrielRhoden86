@@ -1,4 +1,4 @@
-### Olá Eu Sou o Gabriel, Sejam Bem Vindos👋
+### Sejam Bem Vindos👋
 
 - 🔭 Trabalhando com Front e Back End
 - 🌱 Estudando Frameworks PHP
