@@ -11,7 +11,7 @@
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-   <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg"> 
+   <img align="center" alt="Js" height="43" width="53" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg"> 
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">
    <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg">  
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
