@@ -10,7 +10,7 @@
 
 </div>
 <div style="display: inline_block"><br>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+    <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
    <img align="center" alt="Js" height="83" width="93" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg"> 
    <img align="center" alt="Js" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Js" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
