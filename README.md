@@ -1,7 +1,7 @@
 ### Sejam Bem Vindos👋
 
 - 🔭 Trabalhando com Front e Back End
-- 🌱 Estudando Frameworks PHP
+- 🌱 Aplicações WEB
 - 📫 Contatate me no: gabrielrhodden@gmail.com 
 
 <div style=""><br>
